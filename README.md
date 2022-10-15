@@ -8,3 +8,7 @@ Chapter 03; Class 31 - Reusing Infrastructure from DSCatalog project
 
 - DSCatalog Project: https://github.com/leofalves/dscataloghttps://github.com/leofalves/dscatalog
 - Video Class: https://learn.devsuperior.com/offers/53/resource/264/sections/908?item=10355
+
+Chapter 03; Class 32 - Implementing funcionalities
+
+- Video Class: https://learn.devsuperior.com/offers/53/resource/264/sections/908?item=10356
